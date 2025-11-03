@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [weissraum, whitespace, layout, negativ-raum]
-last_updated: 2025-11-03
+tags: [weißraum, negativraum, layout, struktur]
+last-updated: 2025-11-03
 ---
 
 # Weißraum

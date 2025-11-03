@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
 tags: [kontrast, spannung, dynamik, gestaltung]
-last_updated: 2025-11-03
+last-updated: 2025-11-03
 ---
 
 # Kontrast und Spannung

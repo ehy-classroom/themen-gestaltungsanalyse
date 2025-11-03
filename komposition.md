@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [layout, komposition, bildaufbau, anordnung]
-last_updated: 2025-11-03
+tags: [layout, anordnung, bildaufbau, hierarchie]
+last-updated: 2025-11-03
 ---
 
 # Komposition

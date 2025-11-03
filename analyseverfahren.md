@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [analyse, methodik, gestaltungsanalyse, bewertung]
-last_updated: 2025-11-03
+tags: [farbe, farbtheorie, gestaltung, wahrnehmung]
+last-updated: 2025-11-03
 ---
 
 # Analyseverfahren

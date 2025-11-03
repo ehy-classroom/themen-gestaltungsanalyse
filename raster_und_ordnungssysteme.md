@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [raster, grid, layout, ordnung]
-last_updated: 2025-11-03
+tags: [raster, grid, layout, struktur]
+last-updated: 2025-11-03
 ---
 
 # Raster und Ordnungssysteme

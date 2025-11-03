@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [konzeption, zielsetzung, gestaltungsprozess, strategie]
-last_updated: 2025-11-03
+tags: [konzept, zielformulierung, kommunikation, strategie]
+last-updated: 2025-11-03
 ---
 
 # Gestaltungsziel

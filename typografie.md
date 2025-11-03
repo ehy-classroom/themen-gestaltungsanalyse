@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [schrift, typografie, lesbarkeit, schriftgestaltung]
-last_updated: 2025-11-03
+tags: [typografie, schrift, lesbarkeit, textgestaltung]
+last-updated: 2025-11-03
 ---
 
 # Typografie

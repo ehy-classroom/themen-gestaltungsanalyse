@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [form, geometrie, gestaltung, formsprache]
-last_updated: 2025-11-03
+tags: [form, geometrie, gestaltung, wahrnehmung]
+last-updated: 2025-11-03
 ---
 
 # Formenanalyse

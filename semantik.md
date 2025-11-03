@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [bedeutung, semantik, kommunikation, zeichentheorie]
-last_updated: 2025-11-03
+tags: [bedeutung, semantik, symbolik, kommunikation]
+last-updated: 2025-11-03
 ---
 
 # Semantik

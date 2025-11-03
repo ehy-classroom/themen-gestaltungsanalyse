@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [zielgruppe, kommunikation, nutzerbezug, adressatenanalyse]
-last_updated: 2025-11-03
+tags: [zielgruppe, nutzerorientierung, kommunikation, rezeption]
+last-updated: 2025-11-03
 ---
 
 # Zielgruppenbezug

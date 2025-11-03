@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [wahrnehmung, gestaltpsychologie, gestaltgesetze, wahrnehmungstheorie]
-last_updated: 2025-11-03
+tags: [wahrnehmung, gestaltpsychologie, visuelle-organisation, kognition]
+last-updated: 2025-11-03
 ---
 
 # Gestaltgesetze

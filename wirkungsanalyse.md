@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [wirkung, wahrnehmung, analyse, rezeption]
-last_updated: 2025-11-03
+tags: [wirkung, wahrnehmung, analyse, bewertung]
+last-updated: 2025-11-03
 ---
 
 # Wirkungsanalyse

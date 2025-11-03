@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
-tags: [corporate-design, markenidentität, branding, design-system]
-last_updated: 2025-11-03
+tags: [corporate-design, markenidentität, gestaltungsrichtlinien, konsistenz]
+last-updated: 2025-11-03
 ---
 
 # Corporate Design Bezug

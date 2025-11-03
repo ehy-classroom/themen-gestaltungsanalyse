@@ -1,8 +1,8 @@
 ---
-version: 1.0
+document-version: 1.0
 author: Enno Hyttrek
 tags: [farbe, farbtheorie, gestaltung, wahrnehmung]
-last_updated: 2025-11-03
+last-updated: 2025-11-03
 ---
 
 # Farbkonzept
