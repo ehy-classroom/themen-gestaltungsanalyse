@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [konzeption, zielsetzung, gestaltungsprozess, strategie]
+last_updated: 2025-11-03
+---
+
 # Gestaltungsziel
 
 Das Gestaltungsziel beschreibt die beabsichtigte Wirkung und Funktion einer visuellen Arbeit. Es gibt den Rahmen vor, innerhalb dessen gestalterische Entscheidungen getroffen werden, und verbindet kreative Intention mit kommunikativer Aufgabe.  
@@ -25,4 +32,3 @@ Die Zielgruppe umfasst die Personen oder Gruppen, an die sich eine Gestaltung ri
 Gestaltung ist dann erfolgreich, wenn sie an die Wahrnehmungs- und Erfahrungswelt der Zielgruppe anschließt.  
 In der Planung wird untersucht, welche Merkmale und Bedürfnisse die Zielgruppe prägen, etwa Alter, Bildung, kultureller Hintergrund oder Mediennutzung.  
 Die Analyse der Zielgruppenansprache prüft, ob Form, Sprache und Stil mit den Erwartungen und dem Verständnis des Publikums übereinstimmen.
-

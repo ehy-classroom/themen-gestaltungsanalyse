@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [weissraum, whitespace, layout, negativ-raum]
+last_updated: 2025-11-03
+---
+
 # Weißraum
 
 Weißraum bezeichnet die unbedruckten oder freien Flächen innerhalb einer Gestaltung. Er ist kein leeres Element, sondern aktiver Bestandteil der visuellen Komposition. Weißraum strukturiert, trennt und verbindet Inhalte und bestimmt, wie leicht oder dicht eine Gestaltung wirkt.  
@@ -25,4 +32,3 @@ Weißraum lenkt den Blick, indem er Hierarchien zwischen den Elementen unterstü
 Fokusführung durch Weißraum nutzt Leere als aktives Mittel der Gestaltung.  
 In der Analyse wird beobachtet, wie Raumverteilung Wahrnehmung beeinflusst und wie Leere selbst zum Ausdrucksträger wird.  
 Der gezielte Einsatz von Weißraum schafft Orientierung und bringt Struktur in komplexe visuelle Systeme.
-

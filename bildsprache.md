@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [bildgestaltung, visuelle-kommunikation, fotografie, bildkonzept]
+last_updated: 2025-11-03
+---
+
 # Bildsprache
 
 Die Bildsprache beschreibt die Art und Weise, wie visuelle Elemente Bedeutungen erzeugen und kommunizieren. Sie ist das visuelle Vokabular, mit dem Gestaltende Inhalte ausdrücken und Botschaften vermitteln. Jedes Bild, ob fotografisch, illustrativ oder grafisch, spricht durch seine formalen Merkmale und seinen Kontext.  
@@ -32,4 +39,3 @@ Symbolik in der Bildsprache bezeichnet die Verwendung von Motiven, Farben und Fo
 Ein Herz steht für Liebe, eine Waage für Gerechtigkeit, eine Straße für Bewegung oder Zukunft. Solche Zeichen verdichten komplexe Inhalte in einfache visuelle Formen.  
 Die Wirkung von Symbolen hängt vom Kontext ab: dasselbe Motiv kann in verschiedenen Kulturen unterschiedliche Bedeutungen haben.  
 In der Bildsprache werden Symbole genutzt, um Abstraktes greifbar zu machen und Emotionen oder Ideen auf einer visuellen Ebene zu vermitteln.
-

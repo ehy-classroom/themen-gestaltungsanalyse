@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [farbe, farbtheorie, gestaltung, wahrnehmung]
+last_updated: 2025-11-03
+---
+
 # Farbkonzept
 
 Ein Farbkonzept bildet die Grundlage für die bewusste und planvolle Verwendung von Farben in der visuellen Gestaltung. Farben sind weit mehr als dekorative Elemente – sie strukturieren, differenzieren und transportieren Bedeutung. Durch gezielte Auswahl und Kombination entsteht ein harmonisches, funktionales und verständliches Erscheinungsbild, das die Wahrnehmung lenkt und Botschaften unterstützt.

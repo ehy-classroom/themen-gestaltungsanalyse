@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [form, geometrie, gestaltung, formsprache]
+last_updated: 2025-11-03
+---
+
 # Formenanalyse
 
 Die Formenanalyse untersucht die Gestalt und Struktur visueller Elemente in einer Gestaltung. Sie befasst sich mit geometrischen, organischen oder freien Formen und deren Wirkung im Zusammenspiel. Formen sind Grundbausteine der visuellen Kommunikation und tragen wesentlich zur Ordnung, Spannung und Lesbarkeit eines Layouts bei.  
@@ -25,4 +32,3 @@ Die Flächenaufteilung bezieht sich auf die räumliche Organisation aller Elemen
 Eine ausgewogene Flächenaufteilung sorgt für Orientierung und unterstützt den Lesefluss. Sie kann symmetrisch, asymmetrisch, dynamisch oder ruhig wirken.  
 In der Analyse wird betrachtet, wie Gewichtung und Balance erzeugt werden und welche Rolle negative Flächen einnehmen.  
 Flächenaufteilung ist ein zentrales Mittel, um visuelle Spannung und funktionale Klarheit zu erreichen.
-

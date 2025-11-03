@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [corporate-design, markenidentität, branding, design-system]
+last_updated: 2025-11-03
+---
+
 # Corporate Design Bezug
 
 Der Bezug zum Corporate Design beschreibt die gestalterische Übereinstimmung einzelner Kommunikationsmittel mit dem visuellen Gesamtsystem einer Marke oder Organisation. Corporate Design legt fest, wie Farben, Formen, Typografie und Bildsprache eingesetzt werden, um Wiedererkennbarkeit und Konsistenz zu gewährleisten.  
@@ -25,4 +32,3 @@ Stilmittel sind charakteristische gestalterische Elemente, die einer visuellen S
 Innerhalb des Corporate Designs definieren Stilmittel die ästhetische Identität einer Marke. Sie unterscheiden sie von anderen und geben ihr Persönlichkeit.  
 Die bewusste Pflege und Weiterentwicklung dieser Stilmittel hält das Erscheinungsbild lebendig, ohne die Grundprinzipien zu verletzen.  
 Stilmittel sind damit das Bindeglied zwischen Gestaltungsfreiheit und Wiedererkennbarkeit – sie prägen den Ton einer Marke innerhalb klarer Grenzen.
-

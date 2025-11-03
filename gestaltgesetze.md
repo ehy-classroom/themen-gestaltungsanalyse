@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [wahrnehmung, gestaltpsychologie, gestaltgesetze, wahrnehmungstheorie]
+last_updated: 2025-11-03
+---
+
 # Gestaltgesetze
 
 Die Gestaltgesetze sind grundlegende Prinzipien der Wahrnehmungspsychologie, die beschreiben, wie unser Gehirn visuelle Informationen strukturiert und zu sinnvollen Einheiten zusammenfasst. Sie erklären, warum wir bestimmte Muster, Formen oder Gruppen in Bildern und Grafiken intuitiv erkennen und ordnen können.

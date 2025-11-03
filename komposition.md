@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [layout, komposition, bildaufbau, anordnung]
+last_updated: 2025-11-03
+---
+
 # Komposition
 
 Komposition bezeichnet die Anordnung und das Verhältnis aller Gestaltungselemente innerhalb eines visuellen Rahmens. Sie bestimmt, wie Bild, Text, Form und Raum zueinander in Beziehung stehen und wie der Blick der Betrachter:innen geführt wird.  
@@ -32,4 +39,3 @@ Rhythmus entsteht durch die Wiederholung und Variation von Formen, Farben oder S
 Rhythmus führt den Blick durch die Komposition und schafft visuelle Kontinuität.  
 In der Analyse wird untersucht, wie Rhythmus eingesetzt wird, um Dynamik, Spannung oder Ruhe zu erzeugen.  
 Er macht sichtbar, wie eine Gestaltung über Wiederholung und Veränderung ihre innere Struktur aufbaut.
-

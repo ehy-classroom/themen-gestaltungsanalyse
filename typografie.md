@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [schrift, typografie, lesbarkeit, schriftgestaltung]
+last_updated: 2025-11-03
+---
+
 # Typografie
 
 Typografie ist die Lehre und Praxis der Gestaltung von Schrift. Sie befasst sich mit der visuellen Form von Sprache und damit, wie Schrift Inhalte, Emotionen und Bedeutungen vermittelt. Schrift ist ein grundlegendes Mittel der Kommunikation – sie verbindet Funktionalität und Ästhetik und prägt wesentlich, wie Informationen wahrgenommen werden.  

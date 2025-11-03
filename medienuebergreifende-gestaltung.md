@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [crossmedia, corporate-design, markenidentität, mediengestaltung]
+last_updated: 2025-11-03
+---
+
 # Medienübergreifende Gestaltung
 
 Medienübergreifende Gestaltung beschreibt die konsequente Anwendung gestalterischer Prinzipien über verschiedene Kommunikationskanäle hinweg. Sie sorgt dafür, dass eine visuelle Identität in Print, Digital, Bewegtbild oder Raumgestaltung wiedererkennbar bleibt.  
@@ -18,4 +25,3 @@ Wiedererkennung ist das zentrale Ziel medienübergreifender Gestaltung. Sie ents
 Wiedererkennung schafft Vertrauen und stärkt Markenidentität, weil sie Kontinuität vermittelt.  
 Sie ermöglicht, dass Nutzer:innen Inhalte intuitiv einer Quelle zuordnen können.  
 Die Analyse betrachtet, wie gut Wiedererkennungsmerkmale medienübergreifend umgesetzt und kommuniziert werden.
-

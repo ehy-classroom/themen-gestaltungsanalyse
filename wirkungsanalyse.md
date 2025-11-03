@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [wirkung, wahrnehmung, analyse, rezeption]
+last_updated: 2025-11-03
+---
+
 # Wirkungsanalyse
 
 Die Wirkungsanalyse untersucht, wie visuelle Gestaltung auf Betrachter:innen wirkt und welche Reaktionen sie hervorruft. Sie verbindet Wahrnehmungspsychologie, Kommunikation und Ästhetik und betrachtet, wie Farbe, Form, Bild und Typografie auf emotionale, kognitive und handlungsbezogene Ebenen einwirken.  
@@ -25,4 +32,3 @@ Markenwirkung bezeichnet den Beitrag der Gestaltung zur Wahrnehmung und Position
 Gestaltung prägt, wie eine Marke erlebt wird, noch bevor Inhalte bewusst wahrgenommen werden.  
 In der Analyse der Markenwirkung wird untersucht, ob visuelle Entscheidungen Identität und Werte glaubwürdig transportieren.  
 Markenwirkung ist ein zentrales Qualitätsmerkmal, weil sie langfristige Bindung und Vertrauen erzeugt.
-

@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [analyse, methodik, gestaltungsanalyse, bewertung]
+last_updated: 2025-11-03
+---
+
 # Analyseverfahren
 
 Analyseverfahren dienen in der Gestaltung dazu, visuelle Arbeiten systematisch zu untersuchen und deren Wirkung, Aufbau und Bedeutung nachvollziehbar zu beschreiben. Sie helfen, Gestaltungsentscheidungen zu verstehen und kritisch zu bewerten. Durch die Anwendung von Analyseverfahren wird Gestaltung nicht nur intuitiv, sondern methodisch erfassbar und vergleichbar.  

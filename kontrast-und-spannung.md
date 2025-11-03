@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [kontrast, spannung, dynamik, gestaltung]
+last_updated: 2025-11-03
+---
+
 # Kontrast und Spannung
 
 Kontrast und Spannung beschreiben Gegensätze und Wirkungsunterschiede innerhalb einer Gestaltung. Sie bestimmen, wie stark Elemente voneinander abweichen und wie diese Unterschiede die Wahrnehmung beeinflussen. Kontraste erzeugen Aufmerksamkeit und Dynamik, während Gleichförmigkeit Ruhe und Beständigkeit vermittelt.  
@@ -32,4 +39,3 @@ Farbkontrast beschreibt die Wechselwirkung von Farben unterschiedlicher Intensit
 Farbkontraste betonen Flächen, heben Elemente hervor und können emotionale Wirkung verstärken.  
 In der Analyse wird untersucht, wie Farbunterschiede eingesetzt werden, um Aufmerksamkeit zu lenken und Gestaltungsziele zu unterstützen.  
 Farbkontraste sind ein wesentliches Mittel zur Differenzierung und Gliederung visueller Informationen.
-

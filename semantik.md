@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [bedeutung, semantik, kommunikation, zeichentheorie]
+last_updated: 2025-11-03
+---
+
 # Semantik
 
 Semantik ist die Wissenschaft von der Bedeutung von Zeichen und Symbolen. Sie untersucht, wie Bedeutung entsteht, vermittelt und verstanden wird – unabhängig davon, ob es sich um sprachliche, visuelle oder andere Ausdrucksformen handelt. Ursprünglich in der Linguistik verankert, bildet die Semantik heute ein zentrales Fundament vieler Disziplinen, darunter Philosophie, Informatik, Kognitionswissenschaft und Gestaltung.  

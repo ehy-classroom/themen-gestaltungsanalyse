@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [raster, grid, layout, ordnung]
+last_updated: 2025-11-03
+---
+
 # Raster und Ordnungssysteme
 
 Raster und Ordnungssysteme bilden die strukturelle Grundlage visueller Gestaltung. Sie regeln das Verhältnis und die Position von Text, Bild und Raum und sorgen für Orientierung und Kohärenz. Ein Raster schafft Klarheit und Wiedererkennbarkeit, ohne kreative Freiheit zu verhindern.  
@@ -25,4 +32,3 @@ Ausrichtung beschreibt die optische Verbindung und den Bezug zwischen Gestaltung
 Horizontale, vertikale oder diagonale Bezüge strukturieren den Raum und machen Zusammenhänge sichtbar.  
 Eine klare Ausrichtung stärkt die Lesbarkeit und verbindet Einzelteile zu einer geschlossenen Komposition.  
 In der Analyse wird untersucht, wie präzise Ausrichtung zur formalen Klarheit und Stabilität einer Gestaltung beiträgt.
-

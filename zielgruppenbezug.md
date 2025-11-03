@@ -1,3 +1,10 @@
+---
+version: 1.0
+author: Enno Hyttrek
+tags: [zielgruppe, kommunikation, nutzerbezug, adressatenanalyse]
+last_updated: 2025-11-03
+---
+
 # Zielgruppenbezug
 
 Zielgruppenbezug beschreibt die bewusste Ausrichtung einer Gestaltung auf die Bedürfnisse, Erwartungen und Sehgewohnheiten der anvisierten Empfänger:innen. Jede Gestaltung ist Kommunikation und richtet sich an bestimmte Menschen, deren Wahrnehmung, Vorwissen und kultureller Hintergrund ihre Interpretation beeinflussen.  
@@ -25,4 +32,3 @@ Erwartung bezieht sich auf die Seh- und Deutungsmuster, die Zielgruppen aufgrund
 Menschen nehmen bevorzugt das wahr, was ihren Erwartungen entspricht, und reagieren irritiert auf Abweichungen – diese Irritation kann produktiv oder störend wirken.  
 Gestalterisch kann Erwartung erfüllt, gebrochen oder gezielt verschoben werden, um Aufmerksamkeit zu erzeugen.  
 In der Analyse wird betrachtet, wie eine Gestaltung mit den visuellen und kulturellen Erwartungen ihrer Zielgruppe umgeht.
-
